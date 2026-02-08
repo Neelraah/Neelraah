@@ -36,10 +36,10 @@ If it involves security, AI, or systems, I’m probably into it.
 - co-founder & CTO of CarbonCTRL
 - selected under MSME and FundR 1.0 at IIT Madras
 
-## 📊 stats that go brrr
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Neelraah&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neelraah&layout=compact&theme=tokyonight&cache_seconds=1800)
+📊 stats that go brrr  
+active in cybersecurity, ai/ml, and full stack projects
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Neelraah&theme=tokyonight)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Neelraah&theme=tokyo-night)
 
 
 ##  random facts
