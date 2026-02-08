@@ -1,63 +1,66 @@
-# Hi, I'm Harleen 👋
+# hey, I’m Harleen 👋
 
 🎓 BTech CSE (Cyber Security) @ VIT Chennai  
-🔐 Cybersecurity | 🤖 AI/ML | 🌐 Full Stack  
-🚀 Co-founder & CTO @ CarbonCTRL  
+🔐 breaking systems so I can secure them  
+🤖 AI/ML + 🌐 full stack  
+🚀 co-founder & CTO @ CarbonCTRL  
 
-I’m a second year CS student working at the intersection of cybersecurity, AI/ML, and systems. I like building real world security tools, experimenting with ML models, and shipping products in startup environments. Big on CTFs, applied research, and learning by breaking things.
-
----
-
-## 🧠 What I’m Working On
-- 🔍 Advanced DNS tracking and honeypot systems  
-- 🚦 Traffic density classification using fine tuned YOLO models  
-- ♻️ AI driven optimization using Deep Q Neural Networks  
-- 🌐 Full stack platforms with Next.js  
+I’m a second year CS student who likes building things that actually work in the real world.  
+I spend my time playing CTFs, training ML models, and turning random ideas into shipped products.  
+If it involves security, AI, or systems, I’m probably into it.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚧 currently building
+- 🕸️ advanced DNS tracking and honeypot systems  
+- 🚦 traffic density classifier using a fine tuned YOLO model  
+- ♻️ AI driven optimization with Deep Q Neural Networks  
+- 🌐 full stack platforms using Next.js  
 
-### Languages
-Python | C | C++ | Java | JavaScript  
+---
 
-### Cyber Security
-Kali Linux | Web Exploitation | Cryptography | DNS Security | Honeypots  
+## 🧰 my toolbox
+
+### languages
+`python` `c` `c++` `java` `javascript`
+
+### cyber security
+`kali linux` `web exploitation` `cryptography` `dns security` `honeypots`
 
 ### AI / ML
-Machine Learning | Deep Learning | Computer Vision | YOLO | DQNN  
+`machine learning` `deep learning` `computer vision` `yolo` `dqnn`
 
-### Web Development
-HTML | CSS | Next.js  
+### web dev
+`html` `css` `next.js`
 
-### Tools
-Git | Linux | VS Code  
-
----
-
-## 🏆 Highlights
-- Branch Topper ISC Class XII (97.25%)
-- School Topper ICSE Class X (98.4%)
-- AI/ML Lead @ Hack Club VIT Chennai
-- Co-founder & CTO of CarbonCTRL
-- Selected under MSME and FundR 1.0 at IIT Madras
+### tools
+`git` `linux` `vs code`
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neelraah&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neelraah&layout=compact&theme=tokyonight)
-
----
-
-## 🧩 Extras
-- Active CTF participant  
-- Interested in applied security and systems  
-- Enjoys building over tutorials  
+## 🏆 flex but make it subtle
+- branch topper ISC class XII (97.25%)
+- school topper ICSE class X (98.4%)
+- AI/ML lead @ Hack Club VIT Chennai
+- co-founder & CTO of CarbonCTRL
+- selected under MSME and FundR 1.0 at IIT Madras
 
 ---
 
-## 📫 Contact
-- LinkedIn: https://linkedin.com/in/harleen-1b9529310/ 
+## 📊 stats that go brrr
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neelraah&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neelraah&layout=compact&theme=tokyonight)
+
+---
+
+## 🧩 random facts
+- active CTF player 🏁  
+- prefers building over tutorials  
+- believes security should be practical, not just theoretical  
+
+---
+
+## 📫 say hi
+- LinkedIn: https://linkedin.com/in/harleen-1b9529310/  
 - Email: harleen.reet23@gmail.com
