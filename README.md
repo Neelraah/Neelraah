@@ -2,185 +2,91 @@
 
 # Harleen
 
-### `security × ai × systems`
+### Security · AI/ML · Systems
 
-**B.Tech CSE (Cyber Security) @ VIT Chennai**
-
-> *I build things. I break things. Then I figure out why they broke.*
-
-</div>
+B.Tech CSE (Cyber Security) @ VIT Chennai  
+Co-founder & CTO @ CarbonCTRL
 
 <br/>
 
-```text
-$ whoami
+<a href="https://linkedin.com/in/harleen-1b9529310/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:harleen.reet23@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Harleen — CS student, cybersecurity enthusiast,
-AI/ML builder, full-stack developer, and startup CTO.
+<br/><br/>
 
-I like building systems that sit somewhere between:
-
-    "this is probably a bad idea"
-
-and
-
-    "wait... why does this actually work?"
-```
-
----
-
-## `$ ./about`
-
-I'm a second-year Computer Science student focused on **Cyber Security**, with a tendency to disappear into technical rabbit holes involving **AI, security, cryptography, and systems**.
-
-I enjoy working across the stack — exploiting and securing applications, training ML models, building computer vision pipelines, experimenting with privacy-preserving computation, and turning random ideas into products that actually ship.
-
-Most projects start with:
-
-```text
-bro what if we just build it?
-```
-
-The rest is usually debugging.
-
----
-
-## `$ ./currently_building`
-
-```text
-📂 projects/
-│
-├── 🔐 dns-security/
-│   └── advanced DNS monitoring, tracking & honeypot systems
-│
-├── 🚦 traffic-intelligence/
-│   └── traffic density classification using a fine-tuned YOLO model
-│
-├── 🧠 reinforcement-learning/
-│   └── AI-driven optimization using Deep Q-Networks
-│
-├── 🔒 shenova-ai/
-│   └── experimenting with Homomorphic Encryption & encrypted inference
-│
-└── 🌐 full-stack/
-    └── building and shipping platforms with Next.js
-```
-
----
-
-## `$ ./stack`
-
-### `languages`
-
-`Python` `C` `C++` `Java` `JavaScript`
-
-### `security`
-
-`Linux` `Kali Linux` `Web Exploitation` `CTFs`
-`Cryptography` `DNS Security` `Honeypots`
-
-### `ai / ml`
-
-`Machine Learning` `Deep Learning` `Computer Vision`
-`PyTorch` `YOLO` `Deep Q-Networks`
-
-### `systems / web`
-
-`Next.js` `HTML` `CSS` `Git` `Linux`
-
----
-
-## `$ ./highlights`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                         ACHIEVEMENTS                        │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  🥇  Branch Topper — ISC Class XII                 97.25%   │
-│  🥇  School Topper — ICSE Class X                  98.4%    │
-│                                                             │
-│  🤖  Vice Chariperson @ Hack Club, VIT Chennai              │
-│  🚀  Co-founder & CTO @ CarbonCTRL                          │
-│  💡  Selected under MSME and FundR 1.0 @ IIT Madras         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `$ ./github --stats`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Neelraah&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neelraah&theme=tokyo-night&hide_border=true" />
+Building at the intersection of security, intelligent systems, and real-world products.
 
 </div>
 
 ---
 
-## `$ cat philosophy.txt`
+<div align="center">
 
-```python
-while True:
+`Python` · `C++` · `Java` · `JavaScript` · `PyTorch` · `Next.js` · `Linux`
 
-    idea = get_random_problem()
+<br/>
 
-    try:
-        build(idea)
+`Cybersecurity` · `Machine Learning` · `Computer Vision` · `Cryptography` · `Systems`
 
-    except Exception:
-        debug()
-        learn()
-        build_again()
-```
-
-```text
-> build things that interest you
-> break things to understand them
-> security should survive the real world
-> documentation is optional
-> shipping is not
-```
+</div>
 
 ---
 
-## `$ ./random_facts`
+## Selected Work
 
-```text
-[+] active CTF player 🏁
-
-[+] prefers building over endlessly watching tutorials
-
-[+] if I don't understand how something works,
-    I'll probably try to break it
-
-[+] constantly collecting project ideas
-    faster than I can build them
-
-[+] debugging at 2 AM is apparently a personality trait
-```
+| Project | Focus |
+|---|---|
+| **SHENOVA Health** | Constraint-aware homomorphic AI for healthcare |
+| **DNS Security Systems** | DNS monitoring, tracking and honeypot infrastructure |
+| **Traffic Intelligence** | Fine-tuned YOLO-based traffic density classification |
+| **AI Optimization** | Reinforcement learning using Deep Q-Networks |
+| **CarbonCTRL** | Building and shipping full-stack products |
 
 ---
 
 <div align="center">
 
-## `let's build something interesting.`
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,nextjs,pytorch,linux,git,vscode" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harleen-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/harleen-1b9529310/)
+</div>
 
-[![Email](https://img.shields.io/badge/Email-harleen.reet23%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:harleen.reet23@gmail.com)
+---
 
-<br/>
+## Highlights
 
-```text
-security. ai. systems.
+<div align="center">
 
-build → break → learn → repeat
-```
+**97.25% ISC Branch Topper** &nbsp; · &nbsp;
+**98.4% ICSE School Topper** &nbsp; · &nbsp;
+**AI/ML Lead @ Hack Club VIT Chennai**
+
+<br/><br/>
+
+**Co-founder & CTO @ CarbonCTRL** &nbsp; · &nbsp;
+**MSME & FundR 1.0 — IIT Madras**
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Neelraah&show_icons=true&hide_border=true" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Neelraah&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neelraah&hide_border=true" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/harleen-1b9529310/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:harleen.reet23@gmail.com">Email</a>
 
 </div>
