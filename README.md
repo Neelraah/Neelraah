@@ -59,11 +59,8 @@ The rest is usually debugging.
 ├── 🧠 reinforcement-learning/
 │   └── AI-driven optimization using Deep Q-Networks
 │
-├── 🔒 privacy-preserving-ai/
+├── 🔒 shenova-ai/
 │   └── experimenting with Homomorphic Encryption & encrypted inference
-│
-├── 🏥 SHARLEEN-Health/
-│   └── constraint-aware homomorphic AI for healthcare
 │
 └── 🌐 full-stack/
     └── building and shipping platforms with Next.js
@@ -103,7 +100,7 @@ The rest is usually debugging.
 │  🥇  Branch Topper — ISC Class XII                 97.25%   │
 │  🥇  School Topper — ICSE Class X                  98.4%    │
 │                                                             │
-│  🤖  AI/ML Lead @ Hack Club, VIT Chennai                    │
+│  🤖  Vice Chariperson @ Hack Club, VIT Chennai              │
 │  🚀  Co-founder & CTO @ CarbonCTRL                          │
 │  💡  Selected under MSME and FundR 1.0 @ IIT Madras         │
 │                                                             │
