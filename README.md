@@ -108,24 +108,5 @@ Intelligent optimization using Deep Q-Networks.
 
 </div>
 
----
 
-## A small challenge
 
-<div align="center">
-
-You found this repository.
-
-There is nothing hidden here.
-
-Or is there?
-
-<br/>
-
-<details>
-<summary><b>Click only if you're curious.</b></summary>
-
-<br/>
-
-```text
-01101000 01100101 01111001
